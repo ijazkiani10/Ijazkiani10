@@ -1,3 +1,4 @@
+Hi, Im Ijaz Kiani
 # 💫 About Me:
 👨‍💻 I’m currently working on: Building cloud projects (AWS/Azure) + a strong GitHub portfolio<br>🤝 I’m looking to collaborate on: Beginner-friendly cloud/devops projects, automation scripts, and student projects<br>🙋‍♂️ I’m looking for help with: Best practices for cloud architecture, Terraform, and CI/CD<br>🌱 I’m currently learning: AWS (Cloud + DevOps), Linux, Git, Docker, and Terraform<br>💬 Ask me about: Getting started in cloud engineering, certifications, and building a portfolio<br>⚡ Fun fact: I’m always involved in clubs/events and like staying busy on campus
 
